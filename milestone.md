@@ -14,11 +14,11 @@ header-img: "img/zhihu.jpg"
 ###代表作：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [《Latex如何在R语言中生成》](http://blog.csdn.net/lemaden520/article/details/77783001)
 
-- [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
+- [《罗素我为何而生》](http://blog.csdn.net/lemaden520/article/details/77418368)
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《罗素说理想与历程—幸福心灵的获取》](http://blog.csdn.net/lemaden520/article/details/77417901)
 
 
 
