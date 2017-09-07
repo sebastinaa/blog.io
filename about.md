@@ -26,11 +26,11 @@ header-img: "img/green.jpg"
 ### 关注：
 
 
-- [lemaden] (http://blog.csdn.net/lemaden520/article/details/77783001)
+- [lemaden](http://blog.csdn.net/lemaden520/article/details/77783001)
 
-- [网站搭建教程更新链接] (http://liuning.vip/)
+- [网站搭建教程更新链接](http://liuning.vip/)
 
-- [Github-sebastinaa] (https://github.com/sebastinaa)
+- [Github-sebastinaa](https://github.com/sebastinaa)
 
 
 ### 推荐之作：
