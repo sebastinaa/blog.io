@@ -14,7 +14,7 @@ header-img: "img/green.jpg"
 
 现在学习 **电气工程及其自动化** 。
 
-###坚信
+### 坚信
 
 
 - 元认知乃一切之源
@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 - 「持续」并不是坚持，写就是最好的回报
 
 
-###关注：
+### 关注：
 
 
 - [lemaden] (http://blog.csdn.net/lemaden520/article/details/77783001)
@@ -33,7 +33,7 @@ header-img: "img/green.jpg"
 - [Github-sebastinaa] (https://github.com/sebastinaa)
 
 
-###推荐之作：
+### 推荐之作：
 - [元认知](http://www.mesule.com/)
 - Python
 - [阳志平](http://www.yangzhiping.com/)
@@ -46,11 +46,11 @@ header-img: "img/green.jpg"
 - [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
-###我的朋友们
+### 我的朋友们
 
 - [Jning](http://yilee.me)
 
-###联系
+### 联系
 
 - [博客：www.beamer.top](www.beamer.top)
 

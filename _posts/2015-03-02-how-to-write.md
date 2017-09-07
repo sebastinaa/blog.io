@@ -7,7 +7,7 @@ tags: [记录]
 description: Email:Jning@beamer.top
 ---
 
--**What I Have Lived For** 
+### **What I Have Lived For** 
 
 
  Three passions, simple but overwhelmingly strong, have governed my life: the 
@@ -43,7 +43,7 @@ but I cannot, and I too suffer.
 This has been my life. I have found it worth living, and would gladly live it 
 again if the chance were offered me. 
 
-- **我为何而生**
+### **我为何而生**
 ——伯兰特·罗素自传前言
 
 
@@ -52,7 +52,7 @@ again if the chance were offered me.
 
  
  
-  我所以追求爱情，有三方面的原因。首先，爱情有时给我带来狂喜，这种狂喜竟如此有力，以致使我常常会为了体验几小时爱的喜悦，而宁愿牺牲生命中其他一切。其次，爱情可以摆脱孤寂——身历那种可怕孤寂的人的战栗意识，有时会由世界的边缘，观察到冷酷无生命的无底深渊。最后，在爱的结合中，我看到了古今圣贤以及诗人们所梦想的天堂的缩影，这正是我所追寻的人生境界。虽然它对一般的人类生活也许太美好了，但这正是我透过爱情所得到场最终发现。
+我所以追求爱情，有三方面的原因。首先，爱情有时给我带来狂喜，这种狂喜竟如此有力，以致使我常常会为了体验几小时爱的喜悦，而宁愿牺牲生命中其他一切。其次，爱情可以摆脱孤寂——身历那种可怕孤寂的人的战栗意识，有时会由世界的边缘，观察到冷酷无生命的无底深渊。最后，在爱的结合中，我看到了古今圣贤以及诗人们所梦想的天堂的缩影，这正是我所追寻的人生境界。虽然它对一般的人类生活也许太美好了，但这正是我透过爱情所得到场最终发现。
 
 　　
 我曾以同样的感情追求知识，我渴望去了解人类的。也渴望知道星星为什么会发光，同时我还想理解毕达哥拉斯的力量。
