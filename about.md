@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是刘宁，为宝丁生，朴芦而为。
 
-现在研习 **认知写作学** 。
+现在学习 **电气工程及其自动化** 。
 
 ###坚信
 
@@ -26,16 +26,18 @@ header-img: "img/green.jpg"
 ###关注：
 
 
+- [lemaden] (http://blog.csdn.net/lemaden520/article/details/77783001)
+
+- [网站搭建教程更新链接] (http://liuning.vip/)
+
+- [Github-sebastinaa] (https://github.com/sebastinaa)
+
+
+###推荐之作：
 - [元认知](http://www.mesule.com/)
-- 写作
 - Python
 - [阳志平](http://www.yangzhiping.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
-
-###代表作：
 
 - [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
 
