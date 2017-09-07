@@ -46,22 +46,13 @@ header-img: "img/green.jpg"
 
 ###我的朋友们
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+- [Jning](http://yilee.me)
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：www.beamer.top](www.beamer.top)
 
-- [微博@CnFeat](http://weibo.com/207775270)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
 
 
 <center>
