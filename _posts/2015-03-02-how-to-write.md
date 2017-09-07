@@ -7,7 +7,7 @@ tags: [记录]
 description: Email:Jning@beamer.top
 ---
 
-##  **What I Have Lived For** 
+#  **What I Have Lived For** 
   Three passions, simple but overwhelmingly strong, have governed my life: the 
 longing for love, the search for knowledge, and unbearable pity for the 
 suffering of mankind. These passions, like great winds, have blown me hither and 
@@ -42,8 +42,8 @@ but I cannot, and I too suffer.
 This has been my life. I have found it worth living, and would gladly live it 
 again if the chance were offered me. 
 
-## **我为何而生**
-###——伯兰特·罗素自传前言
+# **我为何而生**
+——伯兰特·罗素自传前言
 
     
 
