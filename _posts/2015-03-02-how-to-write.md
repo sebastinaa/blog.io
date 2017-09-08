@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 罗素：我为何而生
-date: 2015-3-02
+date: 2017-9-06
 categories: blog
 tags: [记录]
 description: Email:Jning@beamer.top
