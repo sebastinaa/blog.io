@@ -7,7 +7,7 @@ tags: [记录]
 description: Email:Jning@beamer.top
 ---
 
-## **What I Have Lived For** 
+# **What I Have Lived For** 
 
 
  Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair. 
