@@ -57,6 +57,14 @@ description: 罗素，最爱之，
 
 （题图：saurabh mohnot by Nik FC）
 
+---
+
+[关于我](http://beamer.top/about/)
+
+这里有我的个人简介：[关于我](http://beamer.top/about/)
+
+如果你想看到我最新的文章，可以关注我的csdn博客「lemaden520」[点此进入](http://blog.csdn.net/lemaden520/article/details/77657697)。
+
 
 
 

@@ -9,6 +9,7 @@ description: Email:Jning@beamer.top
 
  **What I Have Lived For** 
 
+---
 
  Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair. 
 
@@ -31,6 +32,8 @@ but I cannot, and I too suffer.
 This has been my life. I have found it worth living, and would gladly live it 
 again if the chance were offered me. 
 
+---
+
 
  **我为何而生**
 ——伯兰特·罗素自传前言
@@ -46,7 +49,13 @@ again if the chance were offered me.
 
 这就是我的一生，我发现人是值得活的。如果有谁再给我一次生活的机会，我将欣然接受这难得的赐予。
 　
+---
 
+[关于我](http://beamer.top/about/)
+
+这里有我的个人简介：[关于我](http://beamer.top/about/)
+
+如果你想看到我最新的文章，可以关注我的csdn博客「lemaden520」[点此进入](http://blog.csdn.net/lemaden520/article/details/77657697)。
 
 
 
