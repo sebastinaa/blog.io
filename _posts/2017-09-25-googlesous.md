@@ -1,6 +1,6 @@
 ---
 layout: post
-title:google技巧：如何更好的玩转Google搜索
+title: 技巧：如何更好的玩转Google搜索
 date: 2017-9-25
 categories: blog
 tags: [Google]
